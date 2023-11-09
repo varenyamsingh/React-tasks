@@ -1,0 +1,22 @@
+.word-counter-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    margin: 0 auto;
+  }
+  
+  .paragraph-input {
+    width: 100%;
+    height: 200px;
+    resize: none;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+  }
+  
+  .word-count-display {
+    font-size: 16px;
+    color: #333;
+  }
+  
